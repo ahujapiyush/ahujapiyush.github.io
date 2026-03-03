@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 Disallow:
 
-Sitemap: https://piyushahuja01.github.io/sitemap.xml
+Sitemap: https://ahujapiyush.github.io/sitemap.xml
 
 # WooCommerce & Next.js Developer Portfolio
-# https://piyushahuja01.github.io/
+# https://ahujapiyush.github.io/
