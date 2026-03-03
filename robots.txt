@@ -4,5 +4,35 @@ Disallow:
 
 Sitemap: https://ahujapiyush.github.io/sitemap.xml
 
+# AI / LLM content files
+# https://llmstxt.org/
+# llms.txt provides a concise site summary for AI models
+# llms-full.txt provides the complete site content for AI models
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
 # WooCommerce & Next.js Developer Portfolio
 # https://ahujapiyush.github.io/
+# LLMs: see /llms.txt and /llms-full.txt for structured content

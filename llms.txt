@@ -1,0 +1,53 @@
+# Piyush Ahuja — WooCommerce & Next.js Developer
+
+> Full-stack eCommerce developer specializing in custom WooCommerce stores with Next.js & Tailwind CSS, and native mobile apps for WooCommerce.
+
+## Services
+
+- **Custom WooCommerce Store with Next.js & Tailwind CSS**: Blazing-fast headless WooCommerce storefronts built with Next.js 14, React Server Components, and Tailwind CSS. Sub-second page loads, 95+ PageSpeed scores, full SEO optimization. [Order on Fiverr](https://www.fiverr.com/piyushahuja01/build-a-custom-woocommerce-store-with-next-js-tailwind-css-and-mobile-app)
+
+- **WooCommerce to Native Mobile App**: Convert existing WooCommerce stores into custom-coded React Native mobile apps for iOS and Android. Push notifications, offline support, full cart & checkout, biometric login. [Order on Fiverr](https://www.fiverr.com/piyushahuja01/turn-your-woocommerce-store-into-a-custom-code-native-app)
+
+- **eCommerce Consulting**: Architecture planning, performance audits, tech stack recommendations, and migration strategies for headless WooCommerce setups.
+
+## About
+
+Piyush Ahuja is a full-stack eCommerce developer with 5+ years of experience and 50+ projects delivered. He specializes in:
+- Headless WooCommerce with Next.js
+- React Native mobile apps for WooCommerce
+- Tailwind CSS eCommerce design
+- Server-side rendering for SEO
+- Payment gateway integration (Stripe, PayPal)
+- TypeScript, Node.js, WordPress, Firebase
+
+## Hire
+
+- Fiverr Profile: https://www.fiverr.com/piyushahuja01/
+- Website: https://ahujapiyush.github.io/
+- GitHub: https://github.com/ahujapiyush
+
+## Blog Articles
+
+- [The Complete Guide to Building a WooCommerce Store with Next.js in 2026](https://ahujapiyush.github.io/blog/woocommerce-nextjs-ecommerce-guide.html)
+- [How to Convert Your WooCommerce Store Into a Native Mobile App](https://ahujapiyush.github.io/blog/convert-woocommerce-to-mobile-app.html)
+- [Why Custom WooCommerce + Next.js Beats Traditional WordPress Themes](https://ahujapiyush.github.io/blog/why-custom-woocommerce-nextjs-over-themes.html)
+- [How Much Does a WooCommerce Mobile App Cost in 2026?](https://ahujapiyush.github.io/blog/woocommerce-mobile-app-cost-guide.html)
+- [Headless WooCommerce SEO: The Complete Optimization Guide](https://ahujapiyush.github.io/blog/headless-woocommerce-seo-guide.html)
+- [React Native vs Flutter for WooCommerce Apps](https://ahujapiyush.github.io/blog/react-native-vs-flutter-woocommerce.html)
+
+## FAQ
+
+Q: How much does a custom WooCommerce store with Next.js cost?
+A: Starting from $150 depending on complexity, pages, and integrations. Contact on Fiverr for a personalized quote.
+
+Q: Can you convert an existing WooCommerce store into a mobile app?
+A: Yes. I build custom-coded React Native apps for iOS and Android that sync with your WooCommerce backend.
+
+Q: Why Next.js over traditional WordPress themes?
+A: Next.js delivers 10x faster page loads, better SEO via server-side rendering, modern UI capabilities, and 95+ PageSpeed scores compared to typical WordPress themes scoring 25-45.
+
+Q: How long does a WooCommerce mobile app take?
+A: 2-4 weeks for a production-ready app with push notifications, payment integration, and full cart/checkout.
+
+Q: Do you provide post-delivery support?
+A: Yes. All projects include revision rounds and optional ongoing maintenance.

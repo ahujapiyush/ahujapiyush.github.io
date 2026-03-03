@@ -1,0 +1,20 @@
+/* TEAM */
+Developer: Piyush Ahuja
+Role: Full-Stack eCommerce Developer
+Site: https://ahujapiyush.github.io
+Fiverr: https://www.fiverr.com/piyushahuja01/
+GitHub: https://github.com/ahujapiyush
+Location: India
+
+/* SERVICES */
+1. Custom WooCommerce stores with Next.js & Tailwind CSS
+2. WooCommerce to native mobile app (React Native, iOS + Android)
+3. Headless eCommerce consulting & architecture
+
+/* TECHNOLOGY */
+Next.js, React, React Native, TypeScript, Tailwind CSS, WooCommerce, WordPress, Node.js, Firebase, Vercel
+
+/* SITE */
+Built with: HTML, CSS, JavaScript
+Hosted on: GitHub Pages
+Standards: HTML5, CSS3, ES6+, Schema.org, Open Graph

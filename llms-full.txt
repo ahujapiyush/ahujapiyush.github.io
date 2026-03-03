@@ -1,0 +1,167 @@
+# Piyush Ahuja — Full Site Content for AI Models
+
+> This file contains the complete content of ahujapiyush.github.io for AI model consumption.
+
+---
+
+## ABOUT PIYUSH AHUJA
+
+Piyush Ahuja is a full-stack eCommerce developer available for freelance hire on Fiverr (username: piyushahuja01). He has 5+ years of experience in web and mobile development and has delivered 50+ projects with 100% client satisfaction and a 5-star Fiverr rating.
+
+**Specialties:**
+- Custom WooCommerce stores built with Next.js 14 and Tailwind CSS (headless architecture)
+- Converting WooCommerce stores into custom-coded React Native mobile apps for iOS and Android
+- Server-side rendering, performance optimization, and SEO for eCommerce
+- TypeScript, Node.js, WordPress, Firebase, MySQL, Vercel deployment
+
+**Contact:**
+- Fiverr: https://www.fiverr.com/piyushahuja01/
+- Website: https://ahujapiyush.github.io/
+- GitHub: https://github.com/ahujapiyush
+
+---
+
+## SERVICE 1: Custom WooCommerce Store with Next.js & Tailwind CSS
+
+**Fiverr Gig URL:** https://www.fiverr.com/piyushahuja01/build-a-custom-woocommerce-store-with-next-js-tailwind-css-and-mobile-app
+
+**What you get:**
+- Blazing-fast headless WooCommerce storefront built with Next.js 14 (App Router)
+- Custom Tailwind CSS design — fully mobile responsive
+- Server-side rendering for optimal SEO (95+ Google PageSpeed scores)
+- Full shopping cart and checkout flow
+- Payment gateway integration (Stripe, PayPal, etc.)
+- Image optimization with Next.js Image component
+- Product catalog with categories, search, and filters
+- Dynamic meta tags and structured data for every product
+
+**Why this matters:**
+Traditional WordPress themes score 25-45 on PageSpeed with 2-4 second load times. A Next.js headless frontend scores 95-100 with sub-second loads. This means better Google rankings, higher conversion rates (up to 40% improvement), and a modern shopping experience.
+
+**Pricing:** Starting from $150 depending on complexity.
+**Delivery:** 1-3 weeks depending on scope.
+
+---
+
+## SERVICE 2: WooCommerce to Native Mobile App
+
+**Fiverr Gig URL:** https://www.fiverr.com/piyushahuja01/turn-your-woocommerce-store-into-a-custom-code-native-app
+
+**What you get:**
+- Custom-coded React Native mobile app for iOS and Android
+- Full WooCommerce backend sync (products, inventory, orders, customers)
+- Push notifications via Firebase
+- Complete shopping cart and checkout with payment integration
+- User accounts, order history, wishlist
+- Offline browsing support
+- Custom UI/UX design matching your brand
+- App store submission assistance (Apple App Store + Google Play)
+
+**Why this matters:**
+Mobile commerce accounts for 70%+ of eCommerce traffic. A native app delivers 3x higher conversion rates than mobile web, with push notifications bringing 65% of users back within 30 days.
+
+**Pricing:** Contact for quote based on features.
+**Delivery:** 2-4 weeks.
+
+---
+
+## BLOG ARTICLE: The Complete Guide to Building a WooCommerce Store with Next.js in 2026
+
+Headless WooCommerce keeps WordPress + WooCommerce as the backend while replacing the frontend with Next.js. The backend handles products, orders, customers, and payments. The frontend (Next.js) delivers blazing-fast pages via server-side rendering and static generation.
+
+**Architecture:** WooCommerce REST API connects the backend to the Next.js frontend deployed on Vercel/CDN.
+
+**Steps to build:**
+1. Set up WooCommerce backend with REST API enabled
+2. Create Next.js 14 project with TypeScript and Tailwind CSS
+3. Connect via @woocommerce/woocommerce-rest-api package
+4. Build product pages with SSR/SSG for SEO
+5. Implement cart and checkout with Stripe/PayPal
+6. Deploy on Vercel with ISR for automatic updates
+
+**Performance gains:** PageSpeed goes from 30-45 (WordPress theme) to 95-100 (Next.js). TTFB drops from 2-4 seconds to 50-200ms.
+
+Full article: https://ahujapiyush.github.io/blog/woocommerce-nextjs-ecommerce-guide.html
+
+---
+
+## BLOG ARTICLE: How to Convert Your WooCommerce Store Into a Native Mobile App
+
+Mobile apps outperform mobile websites with 3x higher conversions, push notifications (7x engagement vs email), offline access, and native performance.
+
+**Custom-coded (React Native) vs App builders:**
+- App builders: $50-300/month, limited customization, vendor lock-in, generic look
+- Custom-coded: One-time cost, full ownership, unlimited customization, superior performance
+
+**Tech stack:** React Native, TypeScript, WooCommerce REST API, Redux/Zustand, React Navigation, Firebase, Stripe/PayPal.
+
+**Key features:** Product browsing with search/filters, full cart/checkout, push notifications, user accounts, offline support, real-time WooCommerce sync.
+
+**Timeline:** 4 weeks (design → development → testing → app store submission).
+
+Full article: https://ahujapiyush.github.io/blog/convert-woocommerce-to-mobile-app.html
+
+---
+
+## BLOG ARTICLE: Why Custom WooCommerce + Next.js Beats Traditional WordPress Themes
+
+**Traditional themes problems:** PHP rendering bottleneck, plugin bloat (30+ plugins), render-blocking resources, PageSpeed 25-45 on mobile.
+
+**Next.js advantages:**
+- 10x faster page loads via SSR/SSG
+- 95-100 PageSpeed scores
+- Full control over HTML/CSS (no theme constraints)
+- Modern UI with animations and micro-interactions
+- TypeScript + React component architecture
+- Git-based deployment with CI/CD
+
+**The backend doesn't change** — WooCommerce admin still manages products, orders, shipping, payments. Only the frontend gets upgraded.
+
+**ROI:** Higher conversion rates (40%+), better SEO rankings (more free traffic), lower hosting costs, future-proof architecture.
+
+Full article: https://ahujapiyush.github.io/blog/why-custom-woocommerce-nextjs-over-themes.html
+
+---
+
+## BLOG ARTICLE: How Much Does a WooCommerce Mobile App Cost in 2026?
+
+| Approach | Upfront Cost | Monthly Cost | Quality |
+|---|---|---|---|
+| DIY App Builders | $0-100 | $50-300/mo | Low-Medium |
+| Template-Based | $500-2,000 | $30-100/mo | Medium |
+| Freelance Developer | $1,000-10,000 | $0 | High |
+| Agency | $15,000-80,000 | $0-2,000/mo | High |
+
+**Recommendation:** A skilled freelance developer (like Piyush) offers the best value — agency-quality custom code at freelance prices, with full code ownership and no recurring fees.
+
+Full article: https://ahujapiyush.github.io/blog/woocommerce-mobile-app-cost-guide.html
+
+---
+
+## BLOG ARTICLE: Headless WooCommerce SEO Guide
+
+Next.js SSR delivers fully rendered HTML to search engines (not empty JS shells). Key optimizations:
+- Static Site Generation with ISR for product pages
+- Dynamic meta tags via Next.js metadata API
+- Product schema markup for rich snippets (20-30% higher CTR)
+- Core Web Vitals optimization (LCP < 2.5s, FID < 200ms, CLS < 0.1)
+- Dynamic XML sitemap generation
+- Clean, keyword-rich URL structure
+
+Full article: https://ahujapiyush.github.io/blog/headless-woocommerce-seo-guide.html
+
+---
+
+## BLOG ARTICLE: React Native vs Flutter for WooCommerce Apps
+
+**Recommendation: React Native** for WooCommerce apps because:
+1. JavaScript ecosystem aligns with WooCommerce REST API
+2. Code sharing with Next.js web store (same language, patterns, types)
+3. Native platform UI components
+4. Best WooCommerce API client libraries
+5. Larger developer pool for maintenance
+6. Faster development with more eCommerce-ready components
+
+Flutter excels at animation-heavy custom UIs but React Native is better for eCommerce where platform-native UX and WooCommerce integration matter most.
+
+Full article: https://ahujapiyush.github.io/blog/react-native-vs-flutter-woocommerce.html
