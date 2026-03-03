@@ -468,6 +468,54 @@ section {
     50% { transform: translateY(-10px); }
 }
 
+/* ========== WORLDWIDE TRUST BAR ========== */
+.worldwide-bar {
+    background: linear-gradient(135deg, rgba(99,102,241,.15), rgba(6,182,212,.15));
+    border-top: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+    padding: 32px 0;
+    text-align: center;
+}
+
+.worldwide-title {
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: var(--text-bright);
+    margin-bottom: 16px;
+    letter-spacing: .5px;
+}
+
+.country-flags {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px 20px;
+    margin-bottom: 16px;
+}
+
+.country-flag {
+    font-size: .95rem;
+    color: var(--text);
+    background: var(--bg-card);
+    padding: 6px 14px;
+    border-radius: 20px;
+    border: 1px solid var(--border);
+    transition: var(--transition);
+    white-space: nowrap;
+}
+
+.country-flag:hover {
+    border-color: var(--primary);
+    background: rgba(99,102,241,.1);
+    transform: translateY(-2px);
+}
+
+.worldwide-subtitle {
+    font-size: .9rem;
+    color: var(--text-muted);
+    margin: 0;
+}
+
 /* ========== SERVICES ========== */
 .services {
     background: var(--bg-light);

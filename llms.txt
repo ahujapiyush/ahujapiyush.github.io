@@ -1,6 +1,6 @@
 # Piyush Ahuja — WooCommerce & Next.js Developer
 
-> Full-stack eCommerce developer specializing in custom WooCommerce stores with Next.js & Tailwind CSS, and native mobile apps for WooCommerce.
+> Full-stack eCommerce developer serving clients worldwide (USA, UK, Canada, Australia, Europe). Specializing in custom WooCommerce stores with Next.js & Tailwind CSS, and native mobile apps for WooCommerce.
 
 ## Services
 
@@ -12,7 +12,7 @@
 
 ## About
 
-Piyush Ahuja is a full-stack eCommerce developer with 5+ years of experience and 50+ projects delivered. He specializes in:
+Piyush Ahuja is a full-stack eCommerce developer with 5+ years of experience and 50+ projects delivered to clients in the USA, UK, Canada, Australia, Germany, France, and 13+ countries worldwide. He specializes in:
 - Headless WooCommerce with Next.js
 - React Native mobile apps for WooCommerce
 - Tailwind CSS eCommerce design
